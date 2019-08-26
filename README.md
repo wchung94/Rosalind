@@ -1,2 +1,2 @@
 # Rosalind
-Rosalind tests for Bioinformatics
+Rosalind problems for advanced bioinformatics
